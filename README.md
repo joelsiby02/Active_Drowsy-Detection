@@ -1,6 +1,6 @@
 # Active Drowsy Detection
 
-![Active Drowsy Detection](drowsy_detection.png)
+![Active Drowsy Detection]
 
 ## Introduction
 Active Drowsy Detection is a computer vision project aimed at detecting and alerting drivers who show signs of drowsiness while driving. This project utilizes facial landmarks and eye-tracking techniques to monitor the driver's behavior and detect signs of drowsiness in real-time.
@@ -14,7 +14,7 @@ The system captures the driver's face through a camera, analyzes the eye feature
 ## Open Source Project - Face-X
 Active Drowsy Detection is developed as part of the open-source project called Face-X. Face-X is a community-driven initiative that aims to build computer vision applications for various domains, including face recognition, emotion detection, age estimation, and more. The project encourages collaboration and contributions from developers worldwide to enhance the capabilities of computer vision technologies.
 
-You can find the Face-X project repository [here](https://github.com/username/Face-X). Feel free to explore the repository, contribute to the project, and join the community of computer vision enthusiasts.
+You can find the Face-X project repository [here](https://github.com/akshitagupta15june/Face-X). Feel free to explore the repository, contribute to the project, and join the community of computer vision enthusiasts.
 
 ## Getting Started
 To get started with Active Drowsy Detection, follow these steps:
